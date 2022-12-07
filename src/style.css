@@ -1,1 +1,26 @@
 /* styles go here */
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+label:last-child {
+  margin-bottom: 0;
+}
+
+label select {
+  overflow: hidden;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+fieldset:last-child {
+  margin-bottom: 0;
+}
+
+button {
+  margin-top: 10px;
+}
