@@ -1,23 +1,23 @@
 /* styles go here */
 
-label {
+.label {
   display: block;
   margin-bottom: 10px;
 }
 
-label:last-child {
+.label:last-child {
   margin-bottom: 0;
 }
 
-label select {
+.label .select {
   overflow: hidden;
 }
 
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
 
-fieldset:last-child {
+.fieldset:last-child {
   margin-bottom: 0;
 }
 
