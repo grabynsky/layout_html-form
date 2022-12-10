@@ -5,10 +5,6 @@
   margin-bottom: 10px;
 }
 
-.label:last-child {
-  margin-bottom: 0;
-}
-
 .label .select {
   overflow: hidden;
 }
@@ -17,6 +13,7 @@
   margin-bottom: 20px;
 }
 
+.label:last-child,
 .fieldset:last-child {
   margin-bottom: 0;
 }
